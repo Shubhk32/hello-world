@@ -1,2 +1,2 @@
 # hello-world
-trying to use girhub
+trying to use git hub
